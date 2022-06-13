@@ -1,4 +1,5 @@
-# 
+# First prepare your system:
+#
 # sudo dnf install ruby-devel gcc make rpm-build libffi-devel
 # sudo gem install --no-document fpm
 #

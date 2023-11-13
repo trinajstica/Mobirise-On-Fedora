@@ -1,7 +1,7 @@
 # Mobirise-On-Fedora
 How to install Mobirise on Fedora Linux
 
-First, prepare your system:<br><br>
+First, prepare your system:
 
 sudo dnf install ruby-devel gcc make rpm-build libffi-devel<br>
 sudo gem install --no-document fpm
